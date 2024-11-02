@@ -6,6 +6,6 @@
 
 Feel free to checkout my [portfolio](#) website!
 - 🏢 Software Engineer (Full Stack) [@Shopcomm](https://www.shopcomm.id/), in Jakarta, Indonesia
-- 🧰 I build with: `Flutter` `Kotlin`, `JavaScript`, `Laravel`, `Vue.js`,  `Node.js`, `Tailwind` ...
+- 🧰 I build with: `Flutter`, `Kotlin`, `JavaScript`, `Laravel`, `Vue.js`,  `Node.js`, `Tailwind` ...
 - ⚡ I enjoy gym, reading, playing soccer, and swimming :)
 - 📫 Reach out to me: 
